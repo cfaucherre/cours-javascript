@@ -4,6 +4,27 @@ title: jQuery
 permalink: /js/jquery
 ---
 
+JQuiery 
+
+Bibliothèque Javascript libre faites afin de faciliter l'écriture de code HTML de pages web.
+
+Cette bibliothèque contient les fonctions suivantes;
+
+- effets visuels et animations
+- événements
+- manipulation des feuilles de style (ajout/suppression des classes)
+- Ajax
+- Plugins
+- Utilitaires
+- parcours et modification du DOM
+
+JQuiery se présente comme un fichier Javascript de 247kio qui contient toutes les fonctions de base.
+
+En utilisant le code suivant, il peut être inclus dans toute page web;
+
+<script src="/chemin/vers/JQuiery.js">
+</script>
+
 Charger jQuery
 ==
 
